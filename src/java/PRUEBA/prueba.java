@@ -11,4 +11,5 @@ package PRUEBA;
  */
 public class prueba {
     private int probando;
+    private int probando2;
 }
