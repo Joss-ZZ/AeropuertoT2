@@ -10,5 +10,5 @@ package PRUEBA;
  * @author JhoxiZZ
  */
 public class prueba {
-    
+    private int probando;
 }
